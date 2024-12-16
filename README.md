@@ -8,5 +8,5 @@ INSIGHTS-
 3.Amazon,Flipcart, Myntra are max contributor
 4.Mahrashtra , Karnataka , UP top states 
 
-FINALCONCLUSION--
+FINAL CONCLUSION--
 Target women customerof age group (30-49yrs) living in Maharashtra,Karnataka,UP by showing ads/offers/ccoupons available on Amzon,Flipcart and Myntra.
