@@ -9,7 +9,7 @@ INSIGHTS-
 4.Mahrashtra , Karnataka , UP top states 
 
 FINAL CONCLUSION--
-Target women customerof age group (30-49yrs) living in Maharashtra,Karnataka,UP by showing ads/offers/ccoupons available on Amzon,Flipcart and Myntra.
+Target women customer of age group (30-49yrs) living in Maharashtra ,Karnataka ,UP by showing ads/offers/coupons available on Amazon,Flipcart and Myntra.
 
 dashboard
 ![image](https://github.com/user-attachments/assets/4f568b95-85df-4a24-b7f0-a3b383fed597)
